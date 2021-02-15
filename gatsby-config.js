@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
+    title: `Brennan Matthew Portfolio`,
+    name: `Brennan`,
+    siteUrl: `https://brennanmatthew.com`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Hi, I'm Brennan. I make meaningul experiences.`,
+      heading: `Hi, I'm Brennan. I make meaningful experiences.`,
       maxWidth: 652,
     },
     social: [
