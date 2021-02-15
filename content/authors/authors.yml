@@ -1,6 +1,6 @@
 - name: Dennis Brotzky
   bio: |
-    Written by You. This is where your author bio lives. Share your work, your
+    Written by Brennan Martin. This is where your author bio lives. Share your work, your
     joys and of course, your Twitter handle.
   avatar: ./avatars/dennis-brotzky.jpg
   social:
@@ -11,9 +11,9 @@
     - url: https://github.com
   featured: true
 
-- name: Thiago Costa
+- name: Brennan Martin
   bio: |
-    Written by You. This is where your author bio lives. Share your work, your
+    Written by Brennan Martin. This is where your author bio lives. Share your work, your
     joys and of course, your Twitter handle.
   avatar: ./avatars/thiago-costa.png
   social:

@@ -95,9 +95,9 @@ Once you've setup the `gatsby-theme-novela` in your plugins you can start creati
   avatar: ./avatars/dennis-brotzky.jpg
   featured: true
 
-- name: Thiago Costa
+- name: Brennan Martin
   bio: |
-    Written by Thiago Costa who lives and works in Montreal building useful things.
+    Written by Brennan Martin who lives and works in Montreal building useful things.
     You should follow him on Twitter.
   avatar: ./avatars/thiago-costa.png
 ```
