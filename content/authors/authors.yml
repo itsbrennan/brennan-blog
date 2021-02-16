@@ -1,12 +1,7 @@
 - name: Brennan Martin
   bio: |
-    Written by Brennan Martin. This is where your author bio lives. Share your work, your
-    joys and of course, your Twitter handle.
-  avatar: ./avatars/dennis-brotzky.jpg
+    Pursuing a life filled with passion, purpose, and shared positive experiences. I'm Brennan Martin a UX Lead living in Grand Rapids, Michigan. I've worked the past 8 years on various mobile and web applications ranging from enterprise to B2C experiences.
+  avatar: ./avatars/brennan_avatar.jpg
   social:
-    - url: https://unsplash.com
-    - url: https://stackoverflow.com
-    - url: https://github.com
-    - url: https://github.com
-    - url: https://github.com
+    - url: https://linkedin.com/in/itsbrennan
   featured: true

@@ -1,33 +1,25 @@
 module.exports = {
   siteMetadata: {
     title: `Brennan Matthew Portfolio`,
-    name: `Brennan`,
+    name: `Brennan Matthew Martin Portfolio`,
     siteUrl: `https://brennanmatthew.com`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    description: `Hello, I'm Brennan Martin! I'm a UX Lead and founder who loves playing in gray space of life and making sense of it.  `,
     hero: {
-      heading: `Hi, I'm Brennan. I make meaningful experiences.`,
+      heading: `Hi, I'm Brennan. I make meaningful experiences through <span style="color:#536DFE;font-weight:bold;">user resarch 🧐</span>, <span style="color:#536DFE;font-weight:bold;">co-creation 🥁</span> and <span style="color:#536DFE;font-weight:bold;">data-driven designs ✨</span.>`,
       maxWidth: 652,
     },
     social: [
       {
-        name: `twitter`,
-        url: `https://twitter.com/narative`,
-      },
-      {
         name: `github`,
-        url: `https://github.com/narative`,
-      },
-      {
-        name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://github.com/itsbrennan`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
+        url: `https://www.linkedin.com/in/itsbrennan`,
       },
       {
         name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        url: `https://dribbble.com/itsbrennan`,
       },
     ],
   },
